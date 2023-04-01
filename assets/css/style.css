@@ -4,3 +4,42 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: hsl(234, 12%, 34%);
+    background-color: hsl(0, 0%, 98%);
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+.bold,
+h3 {
+    font-weight: 600;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 0.5;
+    margin-top: 9px;
+}
+
+body {
+    display: grid;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+.start {
+    padding: 4% 37em 3em;
+}
+
+.left {
+
+}
