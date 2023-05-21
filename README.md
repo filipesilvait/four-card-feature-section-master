@@ -1,6 +1,6 @@
 # Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Essa é uma solução para o desafio [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Esta é uma solução para o desafio do Frontend Mentor, onde ajuda a melhorar as habilidades praticas com o código, através da criação de projetos realistas.
 
 ## Table of contents
 
@@ -19,9 +19,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### The challenge
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- View the optimal layout for the site depending on their device's screen size.
+- Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
 
 ### Screenshot
 
@@ -33,8 +33,8 @@ Mobile;
 
 ![Mobile](assets/design/screenshotmobile.jpeg)
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/columns-with-display-flex-flex-wrap-and-transform-lXdFtd-luM)
-- Live Site URL: [GitHub Pages](https://github.com/filipesilvait/four-card-feature-section-master)
+- URL da solução: [Frontend Mentor](https://www.frontendmentor.io/solutions/columns-with-display-flex-flex-wrap-and-transform-lXdFtd-luM)
+- URL do projeto: [GitHub Pages](https://github.com/filipesilvait/four-card-feature-section-master)
 
 ## My process
 
@@ -46,11 +46,11 @@ Mobile;
 
 ### What I learned
 
-I reinforced and developed my skills and knowledge in HTML and CSS. My goal is to acquire the domain.
+Desenvolvi e reforcei meus conhecimentos e habilidades com HTML e CSS.
 
 ### Continued development
 
-I want to keep learning about HTML and CSS. JavaScript only when I master HTML and CSS.
+Eu quero continuar aprendendo e me aprofundando mais meus conhecimentos e habilidades com HTML e CSS.
 
 ## Author
 
@@ -59,4 +59,4 @@ I want to keep learning about HTML and CSS. JavaScript only when I master HTML a
 
 ## Acknowledgments
 
-I was inspired by some solutions from [Florin Pop](https://www.linkedin.com/in/florinpop17/)
+Eu encontrei ajuda para algumas dificuldades com um video do [Florin Pop](https://www.linkedin.com/in/florinpop17/)
